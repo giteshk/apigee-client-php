@@ -1,5 +1,5 @@
 {
-    "name": "apigee/apigee-client-php",
+    "name": "giteshk/apigee-client-php",
     "type": "library",
     "description": "Client library for connecting to the Apigee Edge API.",
     "keywords": [
